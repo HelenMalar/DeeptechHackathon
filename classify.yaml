@@ -1,0 +1,9 @@
+path: C:\Users\HELEN\Downloads\dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Opens
+  1: Cracks
+  2: Bridges
